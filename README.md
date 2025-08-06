@@ -17,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 儿童教育行业模板 | 母婴（月子中心）行业模板 |
 |:---:|:---:|
-|![输入图片说明](ChildrenEducation/screenshots/%E5%88%86%E9%BE%84%E5%A5%BD%E8%AF%BE.jpg)| ![输入图片说明](PostpartumCareCenter/screenshots/%E9%A6%96%E9%A1%B5.jpeg) |
+|![输入图片说明](%E5%84%BF%E7%AB%A5%E6%95%99%E8%82%B2%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E6%AF%8D%E5%A9%B4%EF%BC%88%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%EF%BC%89%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png) |
